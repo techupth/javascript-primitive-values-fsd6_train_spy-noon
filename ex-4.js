@@ -5,3 +5,7 @@ let numberOfSoldProduct = 12000;
 let numberOfProductInStock = undefined;
 
 console.log((numberOfSoldProduct / numberOfProductInStock) * 100);
+
+let myAns = Infinity; //Incorrect
+
+let assignAns = NaN;
